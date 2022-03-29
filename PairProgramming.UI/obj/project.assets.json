@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PairProgramming.POCOS/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PairProgramming.POCOS.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PairProgramming.POCOS.dll": {}
+        }
+      },
+      "PairProgramming.Reposities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PairProgramming.Reposities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PairProgramming.Reposities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PairProgramming.POCOS/1.0.0": {
+      "type": "project",
+      "path": "../PairProgramming.POCOS/PairProgramming.POCOS.csproj",
+      "msbuildProject": "../PairProgramming.POCOS/PairProgramming.POCOS.csproj"
+    },
+    "PairProgramming.Reposities/1.0.0": {
+      "type": "project",
+      "path": "../PairProgramming.Reposities/PairProgramming.Reposities.csproj",
+      "msbuildProject": "../PairProgramming.Reposities/PairProgramming.Reposities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PairProgramming.POCOS >= 1.0.0",
+      "PairProgramming.Reposities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\trent\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\elevenfiftypro\\PairProgramming\\PairProgramming.UI\\PairProgramming.UI.csproj",
+      "projectName": "PairProgramming.UI",
+      "projectPath": "C:\\elevenfiftypro\\PairProgramming\\PairProgramming.UI\\PairProgramming.UI.csproj",
+      "packagesPath": "C:\\Users\\trent\\.nuget\\packages\\",
+      "outputPath": "C:\\elevenfiftypro\\PairProgramming\\PairProgramming.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\trent\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\elevenfiftypro\\PairProgramming\\PairProgramming.POCOS\\PairProgramming.POCOS.csproj": {
+              "projectPath": "C:\\elevenfiftypro\\PairProgramming\\PairProgramming.POCOS\\PairProgramming.POCOS.csproj"
+            },
+            "C:\\elevenfiftypro\\PairProgramming\\PairProgramming.Reposities\\PairProgramming.Reposities.csproj": {
+              "projectPath": "C:\\elevenfiftypro\\PairProgramming\\PairProgramming.Reposities\\PairProgramming.Reposities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\elevenfiftypro\PairProgramming\PairProgramming.POCOS\bin\Debug\net6.0\PairProgramming.POCOS.deps.json
+C:\elevenfiftypro\PairProgramming\PairProgramming.POCOS\bin\Debug\net6.0\PairProgramming.POCOS.dll
+C:\elevenfiftypro\PairProgramming\PairProgramming.POCOS\bin\Debug\net6.0\ref\PairProgramming.POCOS.dll
+C:\elevenfiftypro\PairProgramming\PairProgramming.POCOS\bin\Debug\net6.0\PairProgramming.POCOS.pdb
+C:\elevenfiftypro\PairProgramming\PairProgramming.POCOS\obj\Debug\net6.0\PairProgramming.POCOS.csproj.AssemblyReference.cache
+C:\elevenfiftypro\PairProgramming\PairProgramming.POCOS\obj\Debug\net6.0\PairProgramming.POCOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\elevenfiftypro\PairProgramming\PairProgramming.POCOS\obj\Debug\net6.0\PairProgramming.POCOS.AssemblyInfoInputs.cache
+C:\elevenfiftypro\PairProgramming\PairProgramming.POCOS\obj\Debug\net6.0\PairProgramming.POCOS.AssemblyInfo.cs
+C:\elevenfiftypro\PairProgramming\PairProgramming.POCOS\obj\Debug\net6.0\PairProgramming.POCOS.csproj.CoreCompileInputs.cache
+C:\elevenfiftypro\PairProgramming\PairProgramming.POCOS\obj\Debug\net6.0\PairProgramming.POCOS.dll
+C:\elevenfiftypro\PairProgramming\PairProgramming.POCOS\obj\Debug\net6.0\ref\PairProgramming.POCOS.dll
+C:\elevenfiftypro\PairProgramming\PairProgramming.POCOS\obj\Debug\net6.0\PairProgramming.POCOS.pdb

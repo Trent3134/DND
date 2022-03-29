@@ -1,0 +1,12 @@
+C:\elevenfiftypro\PairProgramming\PairProgramming.Reposities\bin\Debug\net6.0\PairProgramming.Reposities.deps.json
+C:\elevenfiftypro\PairProgramming\PairProgramming.Reposities\bin\Debug\net6.0\PairProgramming.Reposities.dll
+C:\elevenfiftypro\PairProgramming\PairProgramming.Reposities\bin\Debug\net6.0\ref\PairProgramming.Reposities.dll
+C:\elevenfiftypro\PairProgramming\PairProgramming.Reposities\bin\Debug\net6.0\PairProgramming.Reposities.pdb
+C:\elevenfiftypro\PairProgramming\PairProgramming.Reposities\obj\Debug\net6.0\PairProgramming.Reposities.csproj.AssemblyReference.cache
+C:\elevenfiftypro\PairProgramming\PairProgramming.Reposities\obj\Debug\net6.0\PairProgramming.Reposities.GeneratedMSBuildEditorConfig.editorconfig
+C:\elevenfiftypro\PairProgramming\PairProgramming.Reposities\obj\Debug\net6.0\PairProgramming.Reposities.AssemblyInfoInputs.cache
+C:\elevenfiftypro\PairProgramming\PairProgramming.Reposities\obj\Debug\net6.0\PairProgramming.Reposities.AssemblyInfo.cs
+C:\elevenfiftypro\PairProgramming\PairProgramming.Reposities\obj\Debug\net6.0\PairProgramming.Reposities.csproj.CoreCompileInputs.cache
+C:\elevenfiftypro\PairProgramming\PairProgramming.Reposities\obj\Debug\net6.0\PairProgramming.Reposities.dll
+C:\elevenfiftypro\PairProgramming\PairProgramming.Reposities\obj\Debug\net6.0\ref\PairProgramming.Reposities.dll
+C:\elevenfiftypro\PairProgramming\PairProgramming.Reposities\obj\Debug\net6.0\PairProgramming.Reposities.pdb
