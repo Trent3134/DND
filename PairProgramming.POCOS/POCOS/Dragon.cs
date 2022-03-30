@@ -120,7 +120,7 @@ public class Dragon
             Console.ForegroundColor = ConsoleColor.Red;
             System.Console.WriteLine("you lost 22 health");
             Console.ForegroundColor = ConsoleColor.Gray;
-            System.Console.WriteLine($"your health is at:  {player.Health} \n");
+            System.Console.WriteLine($" {player.Name} is at:  {player.Health} \n");
         }
         else if (number >=15 && number <= 20 )
         {

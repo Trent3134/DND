@@ -195,7 +195,7 @@ public class Fighters
             Console.ForegroundColor = ConsoleColor.Red;
             System.Console.WriteLine("Dragon lost 16 health");
             Console.ForegroundColor = ConsoleColor.Gray;
-            System.Console.WriteLine($"the dragon Health: {dragon.Health}");
+            System.Console.WriteLine($"the dragon Health: {dragon.Health} \n");
         }
         else if (number <= 1)
         {
@@ -206,7 +206,7 @@ public class Fighters
             Console.ForegroundColor = ConsoleColor.Red;
             System.Console.WriteLine("you have lost 6 health");
             Console.ForegroundColor = ConsoleColor.Gray;
-            System.Console.WriteLine($" {player.Name} health: {player.Health} ");
+            System.Console.WriteLine($" {player.Name} health: {player.Health} \n");
         }
         else
         {
@@ -230,7 +230,7 @@ public class Fighters
             Console.ForegroundColor = ConsoleColor.Red;
             System.Console.WriteLine("you lost 40 health");
             Console.ForegroundColor = ConsoleColor.Gray;
-            System.Console.WriteLine($"the dragon Health: {dragon.Health}");
+            System.Console.WriteLine($"the dragon Health: {dragon.Health} \n");
         }
         else if (number <= 1)
         {
@@ -241,7 +241,7 @@ public class Fighters
             Console.ForegroundColor = ConsoleColor.Red;
             System.Console.WriteLine("you have lost 12 health");
             Console.ForegroundColor = ConsoleColor.Gray;
-            System.Console.WriteLine($" {player.Name} health: {player.Health} ");
+            System.Console.WriteLine($" {player.Name} health: {player.Health} \n ");
         }
         else
         {
@@ -264,7 +264,7 @@ public class Fighters
             Console.ForegroundColor = ConsoleColor.Red;
             System.Console.WriteLine("Dragon has Lost 80 Health!!!");
             Console.ForegroundColor = ConsoleColor.Gray;
-            System.Console.WriteLine($"Dragon has {dragon.Health} Health!");
+            System.Console.WriteLine($"Dragon has {dragon.Health} Health! \n");
 
         }
         else if (number <= 1)
@@ -276,7 +276,7 @@ public class Fighters
             Console.ForegroundColor = ConsoleColor.Red;
             System.Console.WriteLine("you have lost 12 health");
             Console.ForegroundColor = ConsoleColor.Gray;
-            System.Console.WriteLine($" {player.Name} health: {player.Health} ");
+            System.Console.WriteLine($" {player.Name} health: {player.Health} \n ");
         }
         else
         {
@@ -300,7 +300,7 @@ public class Fighters
             Console.ForegroundColor = ConsoleColor.Blue;
             System.Console.WriteLine("you Gained 25 Health!");
             Console.ForegroundColor = ConsoleColor.Gray;
-            System.Console.WriteLine($"you now have: {player.Health} Health!");
+            System.Console.WriteLine($"you now have: {player.Health} Health! \n");
 
         }
         else

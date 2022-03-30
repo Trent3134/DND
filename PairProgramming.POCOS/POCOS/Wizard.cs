@@ -55,7 +55,7 @@ public class Wizard
             Console.ForegroundColor = ConsoleColor.Red;
             System.Console.WriteLine("Dragon lost 20 health");
             Console.ForegroundColor = ConsoleColor.Gray;
-            System.Console.WriteLine($"the dragon health: {dragon.Health} ");
+            System.Console.WriteLine($"the dragon health: {dragon.Health} \n");
         }
         else if (number <= 1)
         {
@@ -66,7 +66,7 @@ public class Wizard
             Console.ForegroundColor = ConsoleColor.Red;
             System.Console.WriteLine("wizard has lost 10 health");
             Console.ForegroundColor = ConsoleColor.Gray;
-            System.Console.WriteLine($" {wizard.Name} health: {wizard.Health} ");
+            System.Console.WriteLine($" {wizard.Name} health: {wizard.Health} \n ");
         }
         else
         {
@@ -89,7 +89,7 @@ public class Wizard
             Console.ForegroundColor = ConsoleColor.Red;
             System.Console.WriteLine("Dragon lost 25 health");
             Console.ForegroundColor = ConsoleColor.Gray;
-            System.Console.WriteLine($"the dragon health: {dragon.Health} ");
+            System.Console.WriteLine($"the dragon health: {dragon.Health} \n");
         }
         else if (number <= 1)
         {
@@ -100,7 +100,7 @@ public class Wizard
             Console.ForegroundColor = ConsoleColor.Red;
             System.Console.WriteLine("wizard has lost 10 health");
             Console.ForegroundColor = ConsoleColor.Gray;
-            System.Console.WriteLine($" {wizard.Name} health: {wizard.Health} ");
+            System.Console.WriteLine($" {wizard.Name} health: {wizard.Health} \n");
         }
         else
         {
@@ -123,7 +123,7 @@ public class Wizard
             Console.ForegroundColor = ConsoleColor.Red;
             System.Console.WriteLine("Dragon lost 30 health");
             Console.ForegroundColor = ConsoleColor.Gray;
-            System.Console.WriteLine($"the dragon health: {dragon.Health} ");
+            System.Console.WriteLine($"the dragon health: {dragon.Health} \n");
         }
         else if (number <= 1)
         {
@@ -134,7 +134,7 @@ public class Wizard
             Console.ForegroundColor = ConsoleColor.Red;
             System.Console.WriteLine("wizard has lost 10 health");
             Console.ForegroundColor = ConsoleColor.Gray;
-            System.Console.WriteLine($" {wizard.Name} health: {wizard.Health} ");
+            System.Console.WriteLine($" {wizard.Name} health: {wizard.Health} \n");
         }
         else
         {
@@ -156,7 +156,7 @@ public class Wizard
             Console.ForegroundColor = ConsoleColor.Blue;
             System.Console.WriteLine("you Gained 25 Health!");
             Console.ForegroundColor = ConsoleColor.Gray;
-            System.Console.WriteLine($"you now have: {wizard.Health} Health!");
+            System.Console.WriteLine($"you now have: {wizard.Health} Health! \n");
         }
         
         else
